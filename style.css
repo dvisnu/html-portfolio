@@ -1,0 +1,45 @@
+#introduction{
+    background-color: #E4F9F5;
+}
+
+.mountain{
+    display: flex;;
+}
+
+.sacramento-regular {
+    color:#66bfbf;
+    font-family: "Sacramento", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fs-1{
+    font-size: 6rem !important;
+}
+
+.quicksand-sub{
+    color:#66bfbf;
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.profile-pic{
+    height: 150px;
+    border-radius: 50%;
+}
+
+.fs-2{
+    font-size: 2rem !important;
+}
+  
+hr{
+    border: dotted 6px;
+    width: 4%;
+    margin: auto;
+    border-bottom: none;
+}
+
+  
